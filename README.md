@@ -1,4 +1,4 @@
-<h1>This is the converted Website from HTML Website to React Website by Using Functional Components</h1>
+<h1>This is the converted Website from HTML Website to React Website by Using Functional Components.</h1>
 
 # Getting Started with Create React App
 
