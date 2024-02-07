@@ -2,7 +2,7 @@
 
 Jyot yt is a website which is made for my own youtube channel promotion which uploads amazing Gaming videos with amazing gameplay and thriller editing to take you to another level. it will give all information about my youtube on the website along with what i do on youtube and what type of content i create and upload.
 
-it is a new version of my vebsite now it is remade using React which will give more good user experience. all the code rewritten into JSX ( JavaScript XML ) while website is still contains only one page.
+it is a new version of my Website. now it is remade using React which will give more good user experience. all the code rewritten into JSX ( JavaScript XML ) while website is still contains only one page.
 
 
 ## Tech & Tools
