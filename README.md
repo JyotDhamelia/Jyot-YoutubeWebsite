@@ -1,4 +1,34 @@
-<h1>This is the converted Website from HTML Website to React Website by Using Functional Components.</h1>
+# Jyot Yt - The Gaming Website
+
+Jyot yt is a website which is made for my own youtube channel promotion which uploads amazing Gaming videos with amazing gameplay and thriller editing to take you to another level. it will give all information about my youtube on the website along with what i do on youtube and what type of content i create and upload.
+
+it is a new version of my vebsite now it is remade using React which will give more good user experience. all the code rewritten into JSX ( JavaScript XML ) while website is still contains only one page.
+
+
+## Tech & Tools
+
+**Client:** Html, Css, Bootstrap5, javascript, React
+
+**Server:** Vercel, Youtube
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
+| Example Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
+| Example Color | ![#F75E97](https://via.placeholder.com/10/F75E97?text=+) #F75E97 |
+| Example Color | ![#FFDE03](https://via.placeholder.com/10/FFDE03?text=+) #FFDE03 |
+
+
+## Lessons Learned
+
+trying out new things is fun.
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at jyotdhamelia@gmail.com
 
 # Getting Started with Create React App
 
