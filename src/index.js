@@ -26,7 +26,7 @@ function SliderImages(props) {
   if (props.active !== undefined)
     active = 'active'
   return (<div className={"carousel-item " + active}>
-    <img src={props.image} className="d-block w-100" height={470} width={200} alt="..." />
+    <img src={props.image} loading="lazy" className="d-block w-100" height={470} width={200} alt="..." />
     <div className="carousel-caption d-none d-md-block">
       <h5>{props.heading}</h5>
       <p className="text-capitalize">
@@ -62,7 +62,7 @@ function Accordion(props) {
 function Videos(props) {
   return (<div className="col-lg-4 col-md-6 mb-3 d-flex align-items-stretch">
     <div className="card">
-      <img src={props.image} className="card-img-top rounded" alt="Card Image" />
+      <img src={props.image} loading="lazy" className="card-img-top rounded" alt="Card Image" />
       <div className="card-body d-flex flex-column">
         <h5 className="card-title">{props.title}</h5>
         <p className="card-text mb-4 text-capitalize">
@@ -123,7 +123,7 @@ function Site() {
       {/* navbar - starts from here*/}
       <nav className="navbar navbar-expand-lg navbar-dark bg-body-tertiary sticky-top pt-0 pb-0">
         <div className="container-fluid bg-dark pb-2 pt-2">
-          <img src="./images/LogoTransparent.jpg" height={50} width={50} className="me-3" />
+          <img src="./images/LogoTransparent.jpg" loading="lazy" height={50} width={50} className="me-3" />
           <a className="navbar-brand text-light" href="#carouselExampleCaptions">Jyot-Yt</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
@@ -179,7 +179,7 @@ function Site() {
             <div className="card text-center">
               <div className="card-body">
                 <h6 className="text-center mb-2">Watch This</h6>
-                <img src="./images/TrailerThumbnail.jpg" className="card-img-top w-100 image-fluid rounded" />
+                <img src="./images/TrailerThumbnail.jpg" loading="lazy" className="card-img-top w-100 image-fluid rounded" />
                 <p className="pt-2 text-center text-capitalize">
                   This is my channel trailer you can watch it for getting more
                   information about me so click on the button below to watch it.
