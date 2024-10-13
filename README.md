@@ -1,4 +1,4 @@
-# YoutubeWebsite
+# Jyot-YoutubeWebsite
 
 ![Annotation 2024-10-13 231252](https://github.com/user-attachments/assets/2c86029e-5eee-4551-aac9-849fe411e614)
 
@@ -21,7 +21,7 @@
 # Get Started
 - To get satrted with this website follow this steps:
  1. Clone the Repository: `https://github.com/JyotDhamelia/Jyot-YoutubeWebsite.git`
- 2. Navigate to the project directory: `cd youtubewebsite`
+ 2. Navigate to the project directory: `cd jyot-youtubewebsite`
  3. Install Dependencies: `npm install`
  4. Run the website: `npm start`
  5. Open the website in a browser: `https://localhost:3000`
