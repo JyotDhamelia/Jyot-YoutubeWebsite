@@ -1,102 +1,30 @@
-# Jyot Yt - The Gaming Website
+# YoutubeWebsite
 
-Jyot yt is a website which is made for my own youtube channel promotion which uploads amazing Gaming videos with amazing gameplay and thriller editing to take you to another level. it will give all information about my youtube on the website along with what i do on youtube and what type of content i create and upload.
+![Annotation 2024-10-13 231252](https://github.com/user-attachments/assets/2c86029e-5eee-4551-aac9-849fe411e614)
 
-it is a new version of my Website. now it is remade using React which will give more good user experience. all the code rewritten into JSX ( JavaScript XML ) while website is still contains only one page.
+# Live Demo
+- https://jyot-youtube.vercel.app / https://jyot-yt-jyotdhameliagmailcoms-projects.vercel.app
+- Youtube Link - https://www.youtube.com/@JYOTYT111
+  
+# Overview
+- This is a website made for my very own gaming youtube channel named as Jyot Yt. Jyot yt is a gaming youtube channel which uploads amazing Gaming videos with amazing gameplay and thriller editing to take your gaming expierience to another level. it will provide best entertainment as well as motivation & learning for new players so they can perform better in game. so join with us to improve your skills by practicing tips and tricks, Learn new things by observing tutorials, be entertain by watching gameplay and highlights. "lets "Make It Real..."
 
+# Technology
+- HTML, CSS, Java Script, React, Bootstrap 5.
 
-## Tech & Tools
+# Features
+- Slider: this section displays some of the photoes edited by me which contains some motivational quotes for gaming.
+- Videos section: this section displays some of the best videos available on my youtube channel including Collaboration videos, Collection showcase videos, Montage videos and Funny Movements compilation videos. you can view the videos by clicking on button view now which will pop up the video on website it self.
+- Playlist section: this section displays some of my best playlists that are available on Jyot yt. it includes playlist of Funny movements and Montage videos. click on explore playlist button to visit that playlist.
+- About Me section: this section displays the Channel Trailer for Jyot yt from which viewers can get idea of my youtube channel also displays discription about some aspects including second channel information. user can watch the trailer in website itself by clicking on view trailer button. 
 
-**Client:** Html, Css, Bootstrap5, javascript, React
+# Get Started
+- To get satrted with this website follow this steps:
+ 1. Clone the Repository: `https://github.com/JyotDhamelia/Jyot-YoutubeWebsite.git`
+ 2. Navigate to the project directory: `cd youtubewebsite`
+ 3. Install Dependencies: `npm install`
+ 4. Run the website: `npm start`
+ 5. Open the website in a browser: `https://localhost:3000`
 
-**Server:** Vercel, Youtube
-
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF |
-| Example Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
-| Example Color | ![#F75E97](https://via.placeholder.com/10/F75E97?text=+) #F75E97 |
-| Example Color | ![#FFDE03](https://via.placeholder.com/10/FFDE03?text=+) #FFDE03 |
-
-
-## Lessons Learned
-
-trying out new things is fun.
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at jyotdhamelia@gmail.com
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# License
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
